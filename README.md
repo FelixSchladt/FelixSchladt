@@ -2,9 +2,7 @@
 
 ![os](https://svgshare.com/i/Zhy.svg)
 
-<h3>Hi, I like to code.</h3>
-
-Heres a link to [your profile](https://gist.github.com/mine).
+<h3>If it compiles; Ship it!.</h3>
 
 <a style="halign:center">
   <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=FelixSchladt&show_icons=true&theme=react" />
