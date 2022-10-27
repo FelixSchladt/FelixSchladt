@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>About me</h1>
 
-<!--
-**FelixSchladt/FelixSchladt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![os](https://svgshare.com/i/Zhy.svg)
 
-Here are some ideas to get you started:
+<h3>Hi, I like to code.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Heres a link to [your profile](https://gist.github.com/mine).
+
+<a style="halign:center">
+  <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=FelixSchladt&show_icons=true&theme=great-gatsby" />
+</a>
+
+<br>
+
+<a href="https://github.com/FelixSchladt">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixSchladt&theme=react&hide_border=true" />
+</a>
+
+<a href="https://github.com/FelixSchladt?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSchladt&langs_count=6&theme=great-gatsby&layout=compact&hide_border=true" />
+</a>
