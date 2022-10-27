@@ -7,7 +7,7 @@
 Heres a link to [your profile](https://gist.github.com/mine).
 
 <a style="halign:center">
-  <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=FelixSchladt&show_icons=true&theme=transparent" />
+  <img align="center" valign="center" src="https://github-readme-stats.vercel.app/api?username=FelixSchladt&show_icons=true&theme=react" />
 </a>
 
 <br>
@@ -17,5 +17,5 @@ Heres a link to [your profile](https://gist.github.com/mine).
 </a>
 
 <a href="https://github.com/FelixSchladt?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSchladt&langs_count=6&theme=transparent&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSchladt&langs_count=6&theme=react&layout=compact&hide_border=true" />
 </a>
