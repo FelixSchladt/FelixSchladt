@@ -13,7 +13,7 @@ Heres a link to [your profile](https://gist.github.com/mine).
 <br>
 
 <a href="https://github.com/FelixSchladt">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixSchladt&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixSchladt&theme=react&hide_border=true" />
 </a>
 
 <a href="https://github.com/FelixSchladt?tab=repositories">
