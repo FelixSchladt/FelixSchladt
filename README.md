@@ -1,7 +1,5 @@
 <h1>About me</h1>
 
-![os](https://svgshare.com/i/Zhy.svg)
-
 <h3>If it compiles; Ship it!.</h3>
 
 <a style="halign:center">
